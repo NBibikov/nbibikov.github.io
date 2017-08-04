@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "5DCZ5676RM.com.grossum.StudentShare",
-                "paths": [ "/user/new-password*"]
+                "paths": [ "*"]
             }
         ]
     }
